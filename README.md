@@ -1,8 +1,3 @@
-<!-- ======================= BANNER ======================= -->
-
-<p align="center">
-  <img width="2172" height="724" alt="DelowarGithubCoverPhoto" src="https://github.com/delowar1508/my-task-one/blob/15d58150dedd21d25422105716fc2b7605419f63/ChatGPT%20Image%20Sep%203%2C%202026%2C%2002_20_58%20PM.png/>
-</p>
 
 <!-- ======================= INTRO ======================= -->
 
