@@ -1,50 +1,158 @@
-# Hi 👋, I'm <Delowar Hossain>  
-### 🔭 I build things with JavaScript, React, and Node.js
+<!-- ======================= INTRO ======================= -->
+
+<h1 align="center">Hi 👋, I'm Delowar Hossain</h1>
+
+<h3 align="center">
+  🌱 Learning Full-Stack Development
+</h3>
+
+<p align="center">
+  JavaScript • TypeScript • React • Node.js
+</p>
+
+<p align="center">
+  <a href="https://github.com/delowar1508">
+    <img src="https://img.shields.io/badge/GitHub-delowar1508-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:delowar.dev.2k5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## 👨‍💻 About Me
+
+Hi, I'm **Delowar Hossain**, a passionate learner on my journey to becoming a **Full-Stack Developer**.
+
+🌱 Currently learning **Full-Stack Development**  
+💻 Building projects to strengthen my development skills  
+🚀 Exploring modern frontend and backend technologies  
+🧠 Improving my problem-solving and programming skills  
+🤝 Open to collaboration and beginner-friendly open-source projects  
+📚 Learning by building real-world applications
+
+> **Learn • Build • Improve • Repeat 🚀**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🌱 Currently Learning
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="Webpack">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🛠️ Technologies & Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:delowar.dev.2k5@gmail.com)
+### Languages:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5">
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3">
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=graphql" width="50" alt="GraphQL">
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python">
+</p>
+
+### CSS Frameworks & Libraries:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=materialui" width="50" alt="Material UI">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap">
+</p>
+
+### JavaScript Frameworks & Libraries:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js">
+  <img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js">
+</p>
+
+### Database & ORM:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=prisma" width="50" alt="Prisma">
+  <img src="https://skillicons.dev/icons?i=supabase" width="50" alt="Supabase">
+</p>
+
+### Deployment Platform:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel">
+  <img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify">
+  <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase">
+</p>
+
+### Design & Graphics:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=ai" width="50" alt="Adobe Illustrator">
+  <img src="https://skillicons.dev/icons?i=ps" width="50" alt="Adobe Photoshop">
+</p>
+
+### Tools & Technologies:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows">
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="50" alt="Ubuntu">
+  <img src="https://skillicons.dev/icons?i=notion" width="50" alt="Notion">
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
+  <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman">
+  <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker">
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📍 Where to find me
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+<p>
+  <a href="https://github.com/delowar1508">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_MEDIUM_URL">
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=delowar1508&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
