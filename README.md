@@ -1,4 +1,8 @@
+<!-- ======================= BANNER ======================= -->
 
+<p align="center">
+  <img width="2172" height="724" alt="DelowarGithubCoverPhoto" src="https://pbs.twimg.com/profile_banners/2095441641100509185/1788427402/1500x500" />
+</p>
 <!-- ======================= INTRO ======================= -->
 
 <h1 align="center">Hi 👋, I'm Delowar Hossain</h1>
